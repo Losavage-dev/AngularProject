@@ -11,7 +11,7 @@ This project is a lightweight, single-page application that showcases:
 - 🛠️ My **skills** and technologies I use
 - 💼 **Projects** and work experience
 - ✉️ A **contact form** or social media links
-
+- 
 ---
 
 ## 🚀 Built With
@@ -20,6 +20,14 @@ This project is a lightweight, single-page application that showcases:
 - TypeScript
 - HTML / CSS
 - Responsive design principles
+
+---
+
+## 🌟 Goals
+
+- Keep the design simple and user-friendly.
+- Make it easy for visitors to learn about me at a glance.
+- Ensure the site works on both desktop and mobile.
 
 ---
 
@@ -33,15 +41,7 @@ src/
 │   └── app.module.ts  # Angular root module
 ├── assets/            # Images, icons, etc.
 └── styles.scss        # Global styles
-
-
----
-
-## 🌟 Goals
-
-- Keep the design simple and user-friendly.
-- Make it easy for visitors to learn about me at a glance.
-- Ensure the site works on both desktop and mobile.
+```
 
 ---
 
