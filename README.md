@@ -19,7 +19,7 @@ This project is a lightweight, single-page application that showcases:
 
 - [Angular](https://angular.io/)
 - TypeScript
-- HTML / CSS (possibly SCSS)
+- HTML / CSS
 - Responsive design principles
 
 ---
