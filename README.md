@@ -1,7 +1,6 @@
 # 🌐 Angular Personal Portfolio
 
-Welcome to my personal website built with **Angular**!  
-This mini-site is a portfolio that introduces who I am, what I do, and what I'm passionate about — designed to be simple, responsive, and clean.
+Welcome to my personal website built with **Angular**! This mini-site is a portfolio that introduces who I am, what I do, and what I'm passionate about — designed to be simple, responsive, and clean.
 
 ---
 
@@ -24,19 +23,13 @@ This project is a lightweight, single-page application that showcases:
 
 ---
 
-## 🔧 Getting Started
+## 📁 Project Structure
 
-To run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/Losavage-dev/AngularProject.git
-
-# Navigate to the project directory
-cd AngularProject
-
-# Install dependencies
-npm install
-
-# Start the development server
-ng serve
+```plaintext
+src/
+├── app/
+│   ├── components/    # UI components
+│   ├── pages/         # Main sections (about, projects, contact)
+│   └── app.module.ts  # Angular root module
+├── assets/            # Images, icons, etc.
+└── styles.scss        # Global styles
