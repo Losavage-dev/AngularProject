@@ -11,7 +11,6 @@ This project is a lightweight, single-page application that showcases:
 - 🛠️ My **skills** and technologies I use
 - 💼 **Projects** and work experience
 - ✉️ A **contact form** or social media links
-- 
 ---
 
 ## 🚀 Built With
@@ -42,6 +41,20 @@ src/
 ├── assets/            # Images, icons, etc.
 └── styles.scss        # Global styles
 ```
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+(Если у вас другая лицензия, замените MIT на нужную и убедитесь, что файл LICENSE.md существует в корне вашего проекта с текстом лицензии.)
+
+---
+
+## 📧 Contact
+You can reach me via:
+
+GitHub: Losavage-dev
+Email: adilhan2040@gmail.com
 
 ---
 
