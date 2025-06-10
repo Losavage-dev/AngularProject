@@ -53,8 +53,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## 📧 Contact
 You can reach me via:
 
-GitHub: Losavage-dev
-Email: adilhan2040@gmail.com
+- GitHub: Losavage-dev
+- Email: adilhan2040@gmail.com
 
 ---
 
