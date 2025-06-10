@@ -17,7 +17,7 @@ This project is a lightweight, single-page application that showcases:
 ## 🚀 Built With
 
 - [Angular](https://angular.io/)
-- TypeScript
+- [TypeScript](https://www.typescriptlang.org/)
 - HTML / CSS
 - Responsive design principles
 
