@@ -1,0 +1,31 @@
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #dbd8d8;
+  border-radius: 40px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+}
+
+h1 {
+  color: #2c3e50;
+  font-size: 32px;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #34495e;
+}
+
+ul {
+  padding-left: 25px;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
